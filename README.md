@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=3DA47A&center=true&vCenter=true&width=650&lines=Marcos+Antonio;Dev+Full+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=3DA47A&center=true&vCenter=true&width=650&lines=Marcos+Antonio;Desenvolvedor+Full+Stack;Foco+em+Backend+.NET" />
 </a>
 
 <br><br>
 
-Desenvolvedor Full Stack com foco em Backend utilizando Node.js e Java.
+Desenvolvedor Full Stack com foco em Backend utilizando **C#**, **.NET** e **Node.js**.
 
 </div>
 
@@ -14,13 +14,13 @@ Desenvolvedor Full Stack com foco em Backend utilizando Node.js e Java.
 
 # Sobre mim
 
-Atualmente atuo no desenvolvimento de soluções Full Stack, com foco em APIs REST, integrações, automações e aplicações web.
+Atualmente atuo no desenvolvimento de soluções Full Stack, com foco em **APIs REST**, integrações, automações e aplicações web.
 
-Tenho experiência no desenvolvimento de aplicações utilizando **Node.js**, **Java**, **React**, **PostgreSQL** e **Docker**, além de criar fluxos automatizados com **n8n**.
+Tenho experiência no desenvolvimento de aplicações utilizando **C#**, **.NET**, **Node.js**, **React**, **PostgreSQL** e **Docker**, além de criar fluxos automatizados com **n8n**.
 
-Também possuo experiência com infraestrutura Linux, administração de VPS, suporte técnico, CRM e análise de dados.
+No dia a dia também trabalho com integrações entre sistemas, **Chatwoot**, **Evolution API**, APIs de terceiros, implantação de aplicações em **VPS Linux**, Docker e gerenciamento de bancos de dados PostgreSQL.
 
-Estou sempre buscando evoluir como desenvolvedor e construir soluções escaláveis, performáticas e bem estruturadas.
+Busco desenvolver aplicações escaláveis, performáticas e bem estruturadas, sempre seguindo boas práticas de desenvolvimento e arquitetura de software.
 
 ---
 
@@ -28,11 +28,11 @@ Estou sempre buscando evoluir como desenvolvedor e construir soluções escaláv
 
 <p>
 
-<a href="www.linkedin.com/in/marcos-antonio-856ba7342">
+<a href="https://www.linkedin.com/in/marcos-antonio-856ba7342">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:kinhodevjrgmail.com">
+<a href="mailto:kinhodevjr@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -49,26 +49,35 @@ Estou sempre buscando evoluir como desenvolvedor e construir soluções escaláv
 ### Backend
 
 <p>
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### Frontend
 
 <p>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 </p>
 
 ### Banco de Dados
 
 <p>
+
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 ### Ferramentas
 
 <p>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -76,12 +85,13 @@ Estou sempre buscando evoluir como desenvolvedor e construir soluções escaláv
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 </p>
 
 ---
 
 ### Atualmente estudando
 
-Java • Spring Boot • Arquitetura de Software • Microsserviços
-
-</div>
+**C# • ASP.NET Core • Entity Framework • Arquitetura de Software • Microsserviços**
