@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=3DA47A&center=true&vCenter=true&width=650&lines=Marcos+Antonio;Desenvolvedor+Full+Stack;Foco+em+Backend+.NET" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=3DA47A&center=true&vCenter=true&width=650&lines=Marcos+Antonio;Desenvolvedor+Full+Stack;Foco+em+Backend+Java" />
 </a>
 
 <br><br>
 
-Desenvolvedor Full Stack com foco em Backend utilizando **C#**, **.NET** e **Node.js**.
+Desenvolvedor Full Stack com foco em Backend utilizando **C#**, **Java** e **Node.js**.
 
 </div>
 
