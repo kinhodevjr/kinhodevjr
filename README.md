@@ -99,7 +99,7 @@ Estou direcionando minha carreira para o desenvolvimento Backend, com foco em Ja
 - C#
 - .NET / ASP.NET Core
 - Entity Framework Core
-- Java Avançado
+- Java 
 - Spring Boot
 - Arquitetura de Software
 - Microsserviços
