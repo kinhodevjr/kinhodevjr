@@ -95,11 +95,9 @@ Estou direcionando minha carreira para o desenvolvimento Backend, com foco em Ja
 ---
 
 # Atualmente estudando
-
-- C#
-- .NET / ASP.NET Core
-- Entity Framework Core
 - Java 
 - Spring Boot
 - Arquitetura de Software
 - Microsserviços
+- Agentes de IA
+- DevOps
